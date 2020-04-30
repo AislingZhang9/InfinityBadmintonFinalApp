@@ -57,5 +57,10 @@ public class RequestAdvice extends AppCompatActivity {
         String description = descriptionField.getText().toString();
         CoachAdvice coachAdvice = new CoachAdvice(name,issue,goal,description,gender);
         userReference.push().setValue(coachAdvice);
+        Toast.makeText(RequestAdvice.this,"Submission Successful!", Toast.LENGTH_SHORT).show();
+        nameField.getText().clear();
+        issueField.getText().clear();
+        goalField.getText().clear();
+        descriptionField.getText().clear();
     }
 }

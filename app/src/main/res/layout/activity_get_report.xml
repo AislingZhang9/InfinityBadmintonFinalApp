@@ -31,7 +31,7 @@
                 android:freezesText="true"
                 android:onClick="readFromFirebase"
                 android:padding="8dp"
-                android:text="Get" />
+                android:text="@string/get" />
 
 
             <ImageView

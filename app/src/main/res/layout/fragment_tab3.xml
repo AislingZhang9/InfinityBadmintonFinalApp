@@ -22,7 +22,7 @@
                 android:textSize="20sp"
                 android:textStyle="bold"
                 android:layout_margin="16dp"
-                android:text="Doubles"/>
+                android:text="@string/doubles"/>
 
             <TextView
                 android:layout_width="match_parent"

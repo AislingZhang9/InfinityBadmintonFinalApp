@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name" translatable="false">Infinity Badminton</string>
-    <string name="sign_out">Sign Out</string>
+    <string name="sign_out">Sign out</string>
     <string name="name">Name:</string>
     <string name="topic">Topic:</string>
     <string name="read">Read</string>
@@ -30,15 +30,15 @@
     <string name="singhua">3. Mr. Songhua Tang</string>
     <string name="email_sing">Email: SonghuaTang@gmail.com</string>
     <string name="singinfo">Former Professional Player\nThe Successor of the World-Renowned Tang Style Badminton Training</string>
-    <string name="date1">2020 June 02 - 07</string>
+    <string name="date1">2020 June 02 – 07</string>
     <string name="tour1">CIPUTRA HANOI - YONEX SUNRISE Vietnam International Challenge 2020</string>
     <string name="location1">Location: Hanoi Vietnam</string>
     <string name="buy_ticket">More info</string>
     <string name="tour2">IBERDROLA Spanish International 2020</string>
-    <string name="date2">2020 June 10 - 13</string>
+    <string name="date2">2020 June 10 – 13</string>
     <string name="location2">Location: Madrid Spain</string>
     <string name="tour3">B.A.B.B. German International 2020</string>
-    <string name="date3">2020 June 10 - 13</string>
+    <string name="date3">2020 June 10 – 13</string>
     <string name="location3">Location: Bonn German</string>
     <string name="coach_name">Coach name</string>
     <string name="email_address">email</string>
@@ -47,11 +47,11 @@
     <string name="tour4">VICTOR Malaysia International Series 2020</string>
     <string name="tour5">Styrian International 2020</string>
     <string name="tour6">YONEX US Open 2020</string>
-    <string name="date4">2020 June 16 - 20</string>
+    <string name="date4">2020 June 16 – 20</string>
     <string name="location4">Location: Kuala Lumpur Malaysia</string>
     <string name="date5">2020 JUNE 18 -21</string>
     <string name="location5">Location: Graz Austria</string>
-    <string name="date6">2020 JUNE 23 - 28</string>
+    <string name="date6">2020 JUNE 23 – 28</string>
     <string name="location6">Location: Fullerton, California USA</string>
     <string name="ep4">4. Basic Footwork</string>
     <string name="dur4" translatable="false">4:58</string>
@@ -82,8 +82,6 @@
     <string name="title_activity_badminton_intro" translatable="false">BadmintonIntroActivity</string>
     <string name="tab_text_1" translatable="false">Tab 1</string>
     <string name="tab_text_2" translatable="false">Tab 2</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
     <string name="more">more</string>
     <string name="email">Email:</string>
@@ -109,11 +107,17 @@
     <string name="interval_and_change_of_ends">Interval and Change of Ends</string>
     <string name="tab1_1">1. A match consists of the best of 3 games of 21 points.\n\n2. Every time there is a serve - three is a point scored.\n\n3. The side winning a rally adds a point to its score.\n\n4. At 20 all, the side which gains a 2 point lead first, wins that game.\n\n5. At 29 all, the side scoring the 30th point, wins that game.\n\n6. The side winning a game serves first in the next game.</string>
     <string name="scoring_system">Scoring System</string>
-
-    <string name="singles_rule">1. At the beginning of the game (0-0) and when the server’s score is even, the server serves from the right service court. When the server’s score is odd, the server serves from the left service court.\n\n2. If the server wins a rally, the server scores a point and then serves again from the alternate service court.\n\n3. If the receiver wins a rally, the receiver scores a point and becomes the new server. They serve from the appropriate service court – left if their score is odd, and right if it is even.</string>
+    <string name="singles_rule">1. At the beginning of the game (0–0) and when the server’s score is even, the server serves from the right service court. When the server’s score is odd, the server serves from the left service court.\n\n2. If the server wins a rally, the server scores a point and then serves again from the alternate service court.\n\n3. If the receiver wins a rally, the receiver scores a point and becomes the new server. They serve from the appropriate service court – left if their score is odd, and right if it is even.</string>
     <string name="tab3_1">1. A side has only one ‘service’.\n\n2. The service passes consecutively to the players as shown in the diagram.\n</string>
     <string name="tab3_2">3. At the beginning of the game and when the score is even, the server serves from the right service court. When it is odd, the server serves from the left court.\n\n4. If the serving side wins a rally, the serving side scores a point and the same server serves again from the alternate service court.\n\n5. If the receiving side wins a rally, the receiving side scores a point. The receiving side becomes the new serving side.\n\n6. The players do not change their respective service courts until they win a point when their side is serving.\n\n</string>
-    <string name="report_code">please type in your report code here</string>
-
-
+    <string name="report_code">Please type in your report code here</string>
+    <string name="office">Office</string>
+    <string name="contact_us">Contact us</string>
+    <string name="location_dodge_physical_fitness_center_naddress_3030_broadway_new_york_ny_10027_n">"Location: Dodge Physical Fitness Center  Address: 3030 Broadway, New York, NY 10027 "</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="description_basic_information">Description (Basic Information):</string>
+    <string name="back_to_tutorial_lists">Back To Tutorial Lists</string>
+    <string name="songhua_tang">Songhua Tang</string>
+    <string name="jie_xiao_info">Jie Xiao</string>
 </resources>

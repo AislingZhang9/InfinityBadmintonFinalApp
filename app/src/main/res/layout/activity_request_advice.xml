@@ -44,7 +44,7 @@
         android:padding="5dp"
         android:textSize="16sp"
         android:freezesText="true"
-        android:text="Please fill in this form to get your exclusive tranning advice. Once your report is ready, we will send you an email with your report code which will be used for getting your report."/>
+        android:text="@string/training_advice_activity_description"/>
 
     <EditText
         android:id="@+id/name_edit_field"
@@ -66,14 +66,14 @@
             android:id="@+id/btnMan"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="male"
+            android:text="@string/male"
             android:checked="true"/>
 
         <RadioButton
             android:id="@+id/btnWoman"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="female"/>
+            android:text="@string/female"/>
     </RadioGroup>
 
     <EditText
@@ -82,7 +82,7 @@
         android:layout_height="0dp"
         android:layout_weight="0.3"
         android:freezesText="true"
-        android:hint="Issue: "
+        android:hint="@string/issue"
         android:layout_margin="8dp"/>
 
     <EditText
@@ -93,7 +93,7 @@
         android:layout_weight="0.3"
         android:freezesText="true"
         android:layout_margin="8dp"
-        android:hint="Goal: " />
+        android:hint="@string/goal" />
 
     <EditText
         android:id="@+id/description_edit_field"
@@ -103,7 +103,7 @@
         android:layout_margin="8dp"
         android:freezesText="true"
         android:gravity="bottom"
-        android:hint="Description (Basic Information): " />
+        android:hint="@string/description_basic_information" />
 
     <Button
         android:id="@+id/send_to_firebase_button"
