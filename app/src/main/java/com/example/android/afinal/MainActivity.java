@@ -12,6 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.firebase.ui.auth.AuthUI;
+import com.google.firebase.analytics.FirebaseAnalytics;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;
@@ -29,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
     private FirebaseAuth msAuth;
     private FirebaseAuth.AuthStateListener mAuthStateListener;
+    private FirebaseAnalytics mFirebaseAnalytics;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         setTitle("Infinity Badminton");
+        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
         msAuth = FirebaseAuth.getInstance();
 
 
