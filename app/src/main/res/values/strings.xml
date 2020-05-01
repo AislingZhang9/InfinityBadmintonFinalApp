@@ -7,7 +7,6 @@
     <string name="training_advice_activity_description">Please submit the form to seek training advice, tips, and guidance on how to improve your badminton techniques and tactics. </string>
     <string name="badminton_tutorials">Badminton Tutorials</string>
     <string name="training_advice">Training Advice</string>
-    <string name="email_edit_text">Email: (only if different from sign up)</string>
     <string name="submit">Submit</string>
     <string name="about_us">About us</string>
     <string name="introduction">We aim to create a mobile learning platform for badminton enthusiasts, providing professional and advanced training guidance and support to players at various skill levels to improve badminton techniques and tactics. \nOur app is authentic information-based, which is straightforward, educational, and easy to use. \nWe provide a multifunctional seamless learning environment that enables users to have “coaches” whenever and wherever they play.</string>
@@ -91,7 +90,7 @@
     <string name="singles">Singles</string>
     <string name="doubles">Doubles</string>
     <string name="chibing_wu">Chibing Wu</string>
-    <string name="chibinwu_intro" translatable="false">\n- 1996 – present: Founder and Head coach for NYC Badminton Club\n\n - 2015: Head coach for Pan American Team\n\n - 2014: USAB Certified HIGH PERFORMANCE COACH Level 4\n\n - 2003: 1st place in Men’s Doubles in BOSTON OPEN.\n\n - 2002: 1st place in Men’s Single in BOSTON OPEN.\n\n - 2000: 1st place in Men’s Doubles and Mixed Doubles, 3rd place in Men’s Single in USA National Championship.\n\n - 1997: as replacement coach for USA Olympic Team at Olympic Training Center in Colorado Spring.\n\n - 1992 – 1996: Head coach for Spain National Olympic Team.\n\n - 1992: Award as International Sports Master by China National Sports Federation.\n\n - 1987 – 1992: Member of China National Team.\n</string>
+    <string name="chibinwu_intro">\n- 1996 – present: Founder and Head coach for NYC Badminton Club\n\n - 2015: Head coach for Pan American Team\n\n - 2014: USAB Certified HIGH PERFORMANCE COACH Level 4\n\n - 2003: 1st place in Men’s Doubles in BOSTON OPEN.\n\n - 2002: 1st place in Men’s Single in BOSTON OPEN.\n\n - 2000: 1st place in Men’s Doubles and Mixed Doubles, 3rd place in Men’s Single in USA National Championship.\n\n - 1997: as replacement coach for USA Olympic Team at Olympic Training Center in Colorado Spring.\n\n - 1992 – 1996: Head coach for Spain National Olympic Team.\n\n - 1992: Award as International Sports Master by China National Sports Federation.\n\n - 1987 – 1992: Member of China National Team.\n</string>
     <string name="contact">contact</string>
     <string name="play">Play</string>
     <string name="get">Get</string>
@@ -120,4 +119,6 @@
     <string name="back_to_tutorial_lists">Back To Tutorial Lists</string>
     <string name="songhua_tang">Songhua Tang</string>
     <string name="jie_xiao_info">Jie Xiao</string>
+    <string name="jie_xiao_full_intro">\n - Professor, Capital University of Physical Education and Sports Graduate School\n\n - Former National Badminton Player, Master Athlete\n\n - 1986 Dutch WorldBadminton Open (First Place, Women’s Singles)\n\n - 1986 Belgian World Badminton Open (First Place, Women’s Singles)\n\n - 2000 Washington DC Badminton Open (First Place, Women\'s Singles. First Place, Women\'s Doubles)\n\n - Head Coach of IBF World Training Center\n\n - Supervising Professor of International Olympic Committee\n\n - Badminton Committee Member of Chinese Sports Vocational Skill Evaluation Expert Instructors Committee\n\n - 2016 Awarded the title of “Outstanding Trainer of National Vocational Qualification in Sports Industry”, awarded by the General Administration of Sport of China\n\n - Screenwriter and the coach of demonstration and explanation in Badminton – Instruction from Experts, created by Chinese Central Television in 2006.\n</string>
+    <string name="songhua_full_intro">\nSonghua Tang is the successor of the world- renowned Tang-style badminton training, as the son of Xianhu Tang, who has led and accompanied the Chinese Badminton team in many successful campaigns at the Olympics, World Championships, and Asian Games since 1980s, and was inducted into the International Badminton Federation Hall of Fame in 2002. \n</string>
 </resources>

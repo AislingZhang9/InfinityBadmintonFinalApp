@@ -36,13 +36,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
-            android:text="\nSonghua Tang is the successor of the world-
-            renowned Tang-style badminton training,
-            as the son of Xianhu Tang, who has led and accompanied the Chinese Badminton team in
-            many successful campaigns at the Olympics,
-            World Championships, and Asian Games since
-            1980s, and was inducted into the International
-            Badminton Federation Hall of Fame in 2002. \n"
+            android:text="@string/songhua_full_intro"
             android:textColor="@color/black"
             android:textSize="18sp" />
 
