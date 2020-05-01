@@ -52,8 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
                 } else {
                     List<AuthUI.IdpConfig> providers = Arrays.asList(
-                            new AuthUI.IdpConfig.EmailBuilder().build(),
-                            new AuthUI.IdpConfig.GoogleBuilder().build());
+                            new AuthUI.IdpConfig.EmailBuilder().build());
 
                     startActivityForResult(
                             AuthUI.getInstance()
@@ -141,7 +140,5 @@ public class MainActivity extends AppCompatActivity {
         Intent getReportIntent = new Intent (this, GetReportActivity.class);
         startActivity(getReportIntent);
     }
-
-
 
 }
